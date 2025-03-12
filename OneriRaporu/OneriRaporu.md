@@ -60,7 +60,7 @@ Projenin amaçları, hedefleri ve başarı kriterleri aşağıda belirtilmiştir
 
 ## 5. Risk Analizi:
 
-    | Potansiyel Sorun | Çözüm Önerisi |
-    | :------------------------ | :----: |
-    | Donanım Arızası  | Yedek donanım bileşenleri bulundurmak, düzenli bakım yapmak |
-    | Yazılım Hatası   | Kapsamlı testler yapmak, kod incelemesi, sürüm kontrolü kullanmak |
+| Potansiyel Sorun  | Çözüm Önerisi                                         |
+|-------------------|------------------------------------------------------|
+| Donanım Arızası   | Yedek donanım bileşenleri bulundurmak, düzenli bakım yapmak |
+| Yazılım Hatası    | Kapsamlı testler yapmak, kod incelemesi, sürüm kontrolü kullanmak |
